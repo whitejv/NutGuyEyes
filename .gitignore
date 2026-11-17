@@ -1,0 +1,18 @@
+# Wiring workbook - large (33 MB, embedded images). Kept locally, not in git.
+*.xlsx
+
+# Office temporary / lock files (e.g. ~$AnimatedEye1.xlsx while Excel has it open)
+~$*
+
+# macOS Finder metadata
+.DS_Store
+
+# Python caches from tools/
+__pycache__/
+*.pyc
+
+# Build output (Arduino CLI / IDE export)
+build/
+*.bin
+*.elf
+*.map

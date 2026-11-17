@@ -1,0 +1,24 @@
+{
+  "name": "clayEye",
+  "screen": 240,
+  "sclera_size": [
+    300,
+    306
+  ],
+  "iris_radius": 31,
+  "pupil_fraction": 0.459,
+  "rest": [
+    122,
+    133
+  ],
+  "travel": [
+    28,
+    20
+  ],
+  "iris_min": 108,
+  "iris_max": 132,
+  "lid_rest": 120,
+  "lid_look_down": 165,
+  "notes": "rest = iris center on screen at straight-ahead gaze; travel = +/- px. iris_min/max = engine iScale range (bigger = bigger pupil). lid_rest/lid_look_down = upper-lid threshold when level / looking fully down.",
+  "no_mirror": true
+}
